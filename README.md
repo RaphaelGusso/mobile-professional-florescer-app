@@ -1,4 +1,4 @@
-* - Atenção - * link do video do trabalho no youtube: https://www.youtube.com/watch?v=Ds08idIVGmg
+* Atenção - link do video do trabalho no youtube: https://www.youtube.com/watch?v=Ds08idIVGmg
 
 # 🌱 Flourish -- Gerenciador de Plantas
 
